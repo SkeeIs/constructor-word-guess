@@ -1,5 +1,3 @@
-var userInput = process.argv[2];
-
 function Letter(string) {
     this.letter = string;
     this.guessBool = false;
